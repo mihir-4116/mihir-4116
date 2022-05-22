@@ -3,13 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mihir-4116" alt="mihir-4116" /></a> </p>
 
-- 🌱 I’m currently learning **Data strctures and algorithms, web devlopment, app devlopment**
-
-- 💬 Ask me about **Data strctures and algorithms, app devlopment**
+- 🌱 working as a SDE at saleshandy and contributing towards end-to-end software development life cycle**
 
 - 📫 How to reach me **bhalalamark@gmail.com**
-
-- ⚡ Fun fact **Going to graduate in 2022 from mechanical engineering branch**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
