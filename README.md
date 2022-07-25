@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mihir Bhalala</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mihir-4116&label=Profile%20views&color=0e75b6&style=flat" alt="mihir-4116" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing**
 
-- 💬 Ask me about **DSA, MERN Stack Development**
+- 💬 Ask me about **DSA, Software Engineering**
 
 - 📫 How to reach me **bhalalamark@gmail.com**
 
