@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mihir-4116" alt="mihir-4116" /></a> </p>
 
-- 🌱 I’m currently learning **Cloud Computing**
-
-- 💬 Ask me about **DSA, Software Engineering**
-
 - 📫 How to reach me **bhalalamark@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
