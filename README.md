@@ -30,8 +30,8 @@
 <a href="https://hashnode.com/@mihir4116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@mihir4116" height="30" width="40" /></a>
 </p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihir-4116&" alt="mihir-4116" /></p>
+<h3 align="left">Github Stats:</h3>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihir-4116&" alt="mihir-4116" /></p>
 
 
 <h3 align="left">Support:</h3>
