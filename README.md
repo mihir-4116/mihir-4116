@@ -29,10 +29,10 @@
 <a href="https://hashnode.com/@mihir4116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@mihir4116" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Github Trophies</h3>
+<h3 align="left">Github trophies</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mihir-4116" alt="mihir-4116" /></a> </p>
 
-<h3 align="left">Github Stats</h3>
+<h3 align="left">Github stats</h3>
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihir-4116&" alt="mihir-4116" /></p>
 
 
