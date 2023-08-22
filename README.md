@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Mihir</h1>
-<h3 align="center">Software Engineer</h3>
+<h1 align="center">Hello 👋 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mihir-4116&label=Profile%20views&color=0e75b6&style=flat" alt="mihir-4116" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mihir-4116" alt="mihir-4116" /></a> </p>
 
-👋 Welcome to my GitHub profile! MySelf Mihir, a passionate software engineer with a dynamic skill set and a thirst for innovation. Currently, I thrive in the role of a software engineer, harnessing 2 years of hands-on experience to drive impactful solutions.
+👋 Welcome to my GitHub profile! I am a passionate software engineer with a dynamic skill set and a thirst for innovation. Currently, I thrive in the role of a software engineer, harnessing 2 years of hands-on experience to drive impactful solutions.
 
 🚀 My journey has been a thrilling ride through diverse domains including back-end engineering, data engineering, DevOps, and product management. Over the past 2 years, I've not only honed my technical prowess but also navigated the entire software development lifecycle - from shaping minor enhancements to taking the reins of full-fledged features.
 
