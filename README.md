@@ -1,8 +1,3 @@
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mihir-4116&label=Profile%20views&color=0e75b6&style=flat" alt="mihir-4116" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mihir-4116" alt="mihir-4116" /></a> </p>
-
 👋 Welcome to my GitHub profile! I am a passionate software engineer with a dynamic skill set and a thirst for innovation. Currently, I thrive in the role of a software engineer, harnessing 2 years of hands-on experience to drive impactful solutions.
 
 🚀 My journey has been a thrilling ride through diverse domains including back-end engineering, data engineering, DevOps, and product management. Over the past 2 years, I've not only honed my technical prowess but also navigated the entire software development lifecycle - from shaping minor enhancements to taking the reins of full-fledged features.
@@ -22,6 +17,10 @@
 🤝 If you're seeking a versatile and driven professional to enrich your team's capabilities, let's connect! I'm enthusiastic about collaborating on innovative projects and leveraging my technical prowess to deliver exceptional results.
 
 📬 Reach out to me at bhalalamark@gmail.com, and let's explore the exciting possibilities of working together.
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mihir-4116&label=Profile%20views&color=0e75b6&style=flat" alt="mihir-4116" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mihir-4116" alt="mihir-4116" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
